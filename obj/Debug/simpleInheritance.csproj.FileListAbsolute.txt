@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\03-simpleInheritance\stuff\simpleInheritance\bin\Debug\simpleInheritance.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\03-simpleInheritance\stuff\simpleInheritance\bin\Debug\simpleInheritance.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\03-simpleInheritance\stuff\simpleInheritance\bin\Debug\simpleInheritance.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\03-simpleInheritance\stuff\simpleInheritance\obj\Debug\simpleInheritance.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\03-simpleInheritance\stuff\simpleInheritance\obj\Debug\simpleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\03-simpleInheritance\stuff\simpleInheritance\obj\Debug\simpleInheritance.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\04-ucim-se-2021-02-01\03-simpleInheritance\stuff\simpleInheritance\obj\Debug\simpleInheritance.pdb
